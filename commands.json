@@ -1,3 +1,6 @@
 {
-  "commands": ["Clear D3"]
+  "commands": [
+	  "Clear D3",
+	  "Clear G4"
+  ]
 }
