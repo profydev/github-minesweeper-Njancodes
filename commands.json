@@ -1,4 +1,4 @@
 {
   "commands": ["Clear D4","Flag G6","Clear H5", "Clear H4", "Clear H6", "Flag B5", "Clear A5", "Flag H3", "Clear B6", "Clear H2"
-  		, "Flag C1", "Clear H1", "Clear G1", "Clear A6", "Clear A7", "Clear B7", "Clear C7", "Clear D7"]
+  		, "Flag C1", "Clear H1", "Clear G1", "Clear A6", "Clear A7", "Clear B7", "Clear C7", "Clear D7", "Flag D1", "Clear E1", "Flag F1", "Flag E7", "Flag C8","Clear D8","Clear E8", "Clear F7"]
 }
